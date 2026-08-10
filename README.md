@@ -1,36 +1,66 @@
-# Superstore Sales Dashboard (Excel)
+# Superstore Sales Dashboard
 
-An interactive sales performance dashboard built in Microsoft Excel using the Sample Superstore dataset. The dashboard uses Pivot Tables, Pivot Charts, and slicers to break down sales performance across regions, states, cities, categories, and sub-categories.
+## 📊 Project Overview
 
-## Dashboard Preview
+The Superstore Sales Dashboard is an interactive sales analysis dashboard developed using Microsoft Excel.
 
-![Dashboard](images/dashboard-1.png)
+The dashboard provides a visual analysis of sales performance across different regions, cities, states, categories, sub-categories, customer segments, and shipping modes.
 
-## Key Insights
-
-- **Total Sales:** ~2,297,201 across all regions
-- **Region-wise performance:** East and West regions lead in sales, followed by Central and South
-- **Category-wise split:** Technology (18%), Furniture (16%), and Office Supplies (16%) of total sales
-- **Top sub-categories:** Phones, Chairs, and Storage are the highest-selling sub-categories
-- **Top cities:** New York City and Los Angeles are the top-performing cities by sales
-
-## Tools & Techniques Used
+## 🛠️ Tools Used
 
 - Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Slicers for interactive filtering
-- KPI summary cards
-- Data cleaning and preprocessing
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Visualization
 
-## Dataset
+## 📈 Dashboard Analysis
 
-The dataset used is the well-known **Sample Superstore** dataset, containing order-level records with fields such as Region, State, City, Category, Sub-Category, Sales, Quantity, Discount, and Profit.
+The dashboard includes:
 
-## File
+- Total Sales by Region
+- Total Sales by Top 10 Cities
+- Total Sales by Ship Mode
+- Total Sales by State
+- Total Sales by Category
+- Total Sales by Sub-Category
+- Sales by Category and Sub-Category
 
-- [`Sample_Superstore_Dataset__Task_.xlsx`](Sample_Superstore_Dataset__Task_.xlsx) — full workbook with raw data and the interactive dashboard
+## 🎛️ Interactive Filters
 
-## Author
+The dashboard provides interactive filters for:
+
+- Segment
+- Region
+- Category
+
+## 🔍 Key Insights
+
+The dashboard helps analyze:
+
+- Regional sales performance
+- Top-performing cities
+- State-wise sales distribution
+- Category-wise sales performance
+- Sub-category sales contribution
+- Customer segment performance
+- Sales across different shipping modes
+
+## 📁 Project Files
+
+| File | Description |
+|---|---|
+| `Sample Superstore Dataset (Task).xlsx` | Excel dataset and dashboard |
+| `Dashboard.png` | Dashboard preview |
+
+## 🎯 Objective
+
+The objective of this project is to transform sales data into an interactive dashboard and provide clear visual insights for sales performance analysis.
+
+## 👩‍💻 Author
 
 **Priya Ravikumar**
-Aspiring Data Analyst | Excel • SQL • Power BI • Python
+
+Aspiring Data Analyst
+
+**Skills:** Excel | SQL | Power BI | Python | Data Analytics
